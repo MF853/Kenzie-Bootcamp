@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+}
+#descricao{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+#t2{
+    text-align: center;
+    color:midnightblue;
+}
+#box{
+    width: 430px;
+    height: 150px;
+    padding-left: 20px;
+    border: dotted cornflowerblue;
+}
+html{
+    height: 720px;
+    width: 480px;
+}

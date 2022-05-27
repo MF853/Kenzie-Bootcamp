@@ -1,0 +1,53 @@
+h1{
+    color: blue;
+}
+button{
+    background-color: cornflowerblue;
+    color: white;
+    border-color: cadetblue;
+    font-size: 1cm;
+}
+/*Tag*/
+header{
+    background-color: #7070ac;
+}
+/*Class*/
+.lista{
+    background-color: cornflowerblue;
+}
+/*Id*/
+#titulo{
+    font-size: 50px;
+}
+/*Atributo*/
+img[src]{
+    width: 100px;
+}
+
+
+/*Fontes*/
+ul{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+/*Dimensionamento*/
+ol{
+    background-color: cyan;
+    border: solid 3px blue;
+    border-radius: 5px;
+    width: 500px;
+    height: 100px;
+    padding: 50px;
+    margin: 20px auto;
+}
+/*Posicionamento*/
+a{
+  display: inline;  
+}
+span{
+    display: inline;
+}
+h2,p,article,div{
+    display: inline-block;
+}

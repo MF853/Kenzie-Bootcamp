@@ -1,0 +1,29 @@
+.phrase1 {
+    font-family: 'Press Start 2P', cursive;/* Utilize uma das suas fontes importadas */;
+    font-size: 50px/* Deixe o titulo ainda maior */ ;
+    color: #40e0d0/* Utilize uma rgb ou hexadecimal */;
+    text-align: center/* Alinhe o texto ao centro */;
+  }
+  
+  .phrase2 {
+    font-family: sans-serif;/* Escolha uma fonte sem serifa */ ;
+    font-weight: bold/* Deixe o texto em negrito */ ;
+    font-style: italic/* Coloque em itálico */ ;
+    color: #1184e8;
+  }
+  
+  h3 {
+    font-family: 'Audiowide', cursive;/* Utilize uma outra fonte importada */
+    font-size: 2.5rem;/* Coloque uma fonte de 2.5rem */
+    font-weight: 800;
+    /* Utilize um font-weight de */
+    text-align: right;
+    /* Alinhe o texto a direita */  
+  }
+  
+  p {
+    font-size: 20px ;
+    font-weight: bold;
+    color: darkblue;
+  }
+  
